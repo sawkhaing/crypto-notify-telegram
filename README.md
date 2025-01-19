@@ -1,2 +1,2 @@
 # crypto-notify-telegram
-Simple notifyer to track the crypto price to the desire threshold.
+A simple notifier to track cryptocurrency prices and alert users when they reach the desired threshold.
